@@ -10,7 +10,7 @@ This meetup is all about {meetup topic description}.
 
 The presentation can be find [here](link). {The repo with code [here](link).}
 
-### Talk 2 - - {Name of the talk}
+### Talk 2 - {Name of the talk}
 
 {Talk description}
 
