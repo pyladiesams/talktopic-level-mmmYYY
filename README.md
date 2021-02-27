@@ -1,21 +1,23 @@
+# {Event name}
+### Level: {Beginner, Intermediate, Advanced}
 
-# An introduction to { YOUR TOPIC } or A deep dive into { YOUR TOPIC }
-### Level: Beginner or Advanced
-### Presentation: (link to your presentation if exists)
+## Meetup description
+This meetup is all about {meetup topic description}.
 
-## Workshop description
-Describe why your topic is important and what you want to share with your audience
+### Talk 1 - {Name of the talk}
 
-## Requirements
-Do not forget to indicate Python version and any other tools
-+ add requirements.txt or conda.yml or docker image or Binder/Google Collab link
+{Talk description}
 
-## Usage
-* Clone the repository
-* Start { TOOL } and navigate to the workshop folder
+The presentation can be find [here](link). {The repo with code [here](link).}
+
+### Talk 2 - - {Name of the talk}
+
+{Talk description}
+
+The presentation can be find [here](link). {The repo with code [here](link).}
 
 ## Video record
-Will be available within 1-2 weeks after the event
+[Video record](bitly link)
 
 ## Credits
-This workshop was set up by @pyladiesams and {your github handler}
+This event was set up by @pyladiesams, {Github handlers}
