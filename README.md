@@ -1,5 +1,4 @@
 # {Event name}
-### Level: {Beginner, Intermediate, Advanced}
 
 ## Meetup description
 This meetup is all about {meetup topic description}.
