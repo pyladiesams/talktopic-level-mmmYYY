@@ -16,7 +16,7 @@ The presentation can be find [here](link). {The repo with code [here](link).}
 The presentation can be find [here](link). {The repo with code [here](link).}
 
 ## Video record
-Re-watch YouTube stream [here](link)
+Re-watch [this YouTube stream](link)
 
 ## Credits
 This event was set up by @pyladiesams, {Github handlers}
