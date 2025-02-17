@@ -7,13 +7,19 @@ This meetup is all about {meetup topic description}.
 
 {Talk description}
 
-The presentation can be find [here](link). {The repo with code [here](link).}
+The presentation can be found [here](link). {The repo with code [here](link).}
 
 ### Talk 2 - {Name of the talk}
 
 {Talk description}
 
-The presentation can be find [here](link). {The repo with code [here](link).}
+The presentation can be found [here](link). {The repo with code [here](link).}
+
+### Talk 3 - {Name of the talk}
+
+{Talk description}
+
+The presentation can be found [here](link). {The repo with code [here](link).}
 
 ## Video record
 Re-watch [this YouTube stream](link)
